@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "trainlink-types"
+        },
+        {
+            "path": "shared-lib"
+        },
+        {
+            "path": "typescript-server"
+        },
+        {
+            "path": "typescript-client"
+        }
+    ],
+    "settings": {
+        "cSpell.words": ["Estop", "trainlink"]
+    }
+}

@@ -1,0 +1,12 @@
+[submodule "trainlink-types"]
+	path = trainlink-types
+	url = https://github.com/trainlink-org/trainlink-types.git
+[submodule "shared-lib"]
+	path = shared-lib
+	url = https://github.com/trainlink-org/shared-lib.git
+[submodule "typescript-server"]
+	path = typescript-server
+	url = https://github.com/trainlink-org/typescript-server.git
+[submodule "typescript-client"]
+	path = typescript-client
+	url = https://github.com/trainlink-org/typescript-client.git
