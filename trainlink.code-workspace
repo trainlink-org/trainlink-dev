@@ -13,7 +13,34 @@
             "path": "typescript-client"
         }
     ],
+    "extensions": {
+        "recommendations": [
+            "streetsidesoftware.code-spell-checker",
+            "editorconfig.editorconfig",
+            "dbaeumer.vscode-eslint",
+            "esbenp.prettier-vscode",
+        ]
+    },
     "settings": {
-        "cSpell.words": ["Estop", "trainlink"]
-    }
+        "cSpell.words": [
+            "arduino",
+			"Aval",
+			"codepaths",
+			"datatype",
+			"ENDTASK",
+			"Estop",
+			"ESTOP",
+			"Estops",
+			"idlocos",
+			"idscripts",
+			"idturnout",
+			"idturnouts",
+			"lexer",
+			"MYSQLDB",
+			"plugins",
+			"tailwindcss",
+            "trainlink",
+			"tsbuildinfo"
+        ]
+    },
 }
