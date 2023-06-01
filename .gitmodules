@@ -7,6 +7,6 @@
 [submodule "typescript-server"]
 	path = typescript-server
 	url = https://github.com/trainlink-org/typescript-server.git
-[submodule "typescript-client"]
-	path = typescript-client
-	url = https://github.com/trainlink-org/typescript-client.git
+[submodule "trainlink-command"]
+	path = trainlink-command
+	url = https://github.com/trainlink-org/trainlink-command.git
