@@ -10,7 +10,7 @@
             "path": "typescript-server"
         },
         {
-            "path": "typescript-client"
+            "path": "trainlink-command"
         }
     ],
     "extensions": {
